@@ -1,0 +1,3 @@
+/mnt/d/cpp/CyclingCalculator/build/CMakeFiles/CyclingCalculator_PowerEstimate.dir
+/mnt/d/cpp/CyclingCalculator/build/CMakeFiles/edit_cache.dir
+/mnt/d/cpp/CyclingCalculator/build/CMakeFiles/rebuild_cache.dir
